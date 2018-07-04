@@ -1,0 +1,77 @@
+import os
+import sys
+import importlib
+import socket
+
+
+
+
+
+
+
+
+
+
+
+
+def ShellSession(Type,Encryption,Loca_Port,Connect_Way,RAT):
+	if Type=='php':
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
